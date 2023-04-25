@@ -51,7 +51,9 @@
 
 這次我們得到的結果可以明顯看到，ChatGPT 的確採用了建議並且增加了相關描述。
 
-
+<div class="callout" style="background-color:#FFFFCC">
+    <p>This is a yellow callout.</p>
+</div
 
 ### 參考資料
 [Wu, Y. H., Huang, S. W., Chung, W. Y., Yu, C. C., & Wu, J. L. (2022, December). Factor Detection Task of Cyberbullying Using the Deep Learning Model. In 2022 IEEE International Conference on Big Data (Big Data) (pp. 4323-4329). IEEE.
