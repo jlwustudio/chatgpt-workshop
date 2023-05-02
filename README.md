@@ -14,8 +14,7 @@
 * ChatGPT 在自然語言處理中的應用
 * Part1.輔助撰寫計劃書&探索
 * Part2.輔助撰寫研究報告
-* 總結及QA
-:::
+
 
 ## 課堂講義連結
 [ChatGPT簡介](https://hackmd.io/@ChQHS0vLSe25k41DLXDX7w/SJsIFvjX2)
