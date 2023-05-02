@@ -20,3 +20,5 @@
 [ChatGPT簡介](https://hackmd.io/@ChQHS0vLSe25k41DLXDX7w/SJsIFvjX2)
 
 [Part1實作](https://hackmd.io/@mrkiwi25/SyyUplIX2)
+
+[Part2實作](https://hackmd.io/@WuYuHsuan/rkcc-oQXh)
