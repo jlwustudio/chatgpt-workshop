@@ -17,10 +17,10 @@
 
 
 ## 課堂講義連結
-[ChatGPT簡介](https://hackmd.io/@ChQHS0vLSe25k41DLXDX7w/SJsIFvjX2)
+[ChatGPT簡介](https://hackmd.io/@ChQHS0vLSe25k41DLXDX7w/SJsIFvjX2?_blank)
 
-[Part1實作](https://hackmd.io/@mrkiwi25/SyyUplIX2)
+[Part1實作](https://hackmd.io/@mrkiwi25/SyyUplIX2?_blank)
 
-[Part2實作](https://hackmd.io/@WuYuHsuan/rkcc-oQXh)
+[Part2實作](https://hackmd.io/@WuYuHsuan/rkcc-oQXh?_blank)
 
-[同場加映](https://hackmd.io/@WuYuHsuan/ByODUgqX2)
+[同場加映](https://hackmd.io/@WuYuHsuan/ByODUgqX2?_blank)
