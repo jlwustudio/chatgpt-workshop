@@ -17,7 +17,7 @@
 
 
 ## 課堂講義連結
-[ChatGPT簡介](https://hackmd.io/@ChQHS0vLSe25k41DLXDX7w/SJsIFvjX2)
+[ChatGPT簡介](https://hackmd.io/@ChQHS0vLSe25k41DLXDX7w/SJsIFvjX2){:target="_blank"}
 
 [Part1實作](https://hackmd.io/@mrkiwi25/SyyUplIX2)
 
