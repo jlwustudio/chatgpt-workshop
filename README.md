@@ -23,4 +23,4 @@
 
 [Part2實作](https://hackmd.io/@WuYuHsuan/rkcc-oQXh)
 
-[同場加映](https://hackmd.io/@WuYuHsuan/ByODUgqX2){target="_blank"}
+[同場加映](https://hackmd.io/@WuYuHsuan/ByODUgqX2)
